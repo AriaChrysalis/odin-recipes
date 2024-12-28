@@ -16,4 +16,4 @@ Apply semantic tags appropriately to create meaningful content.
 File and Folder Management
 
 Organize project files correctly (e.g., separating the main index file and recipe pages).
-This project focuses on building and reinforcing your foundational HTML skills without concern for aesthetics or advanced styling.
+This project focuses on building and reinforcing your foundational HTML skills without concern for aesthetics or advanced styling.testing 123
